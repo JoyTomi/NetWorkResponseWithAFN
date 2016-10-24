@@ -1,3 +1,1 @@
-# NetWorkResponseWithAFN
-NetWorkResponseWithAFNetWorking
-使用AFNetWoring+SVPorgressHUD提示用户网络连接状态
+# 使用AFNetWoring+SVPorgressHUD提示用户网络连接状态
